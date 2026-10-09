@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-09",
+  "scope": "source-and-resource-directories-not-prebuilt-installers",
+  "full": {
+    "directory": "TerraDeskMate",
+    "roles": 431,
+    "models": 2835,
+    "sharedPythonAndGptSoVits": true,
+    "existingRoleWeights": 41,
+    "bytes": 21762457449
+  },
+  "light": {
+    "directory": "TerraDeskMateLight",
+    "builtinRoles": [
+      "Amiya"
+    ],
+    "baseFolders": 430,
+    "voiceFolders": 41,
+    "weightsNotProvided": 390,
+    "pythonAndGptSoVitsIncluded": false,
+    "coreSourceBytes": 9913136,
+    "optionalBaseBytes": 3025826840,
+    "optionalVoiceBytes": 9854300019,
+    "totalBytes": 12668827685
+  },
+  "manualChapters": 17,
+  "sourceBuild": "compiled-in-memory",
+  "functionalValidation": "not_run-at-user-request",
+  "githubUploaded": false,
+  "sourceAndOldReleasesModified": false,
+  "note": "Public role assets preserve all referenced original and HD files; no lossy resizing. Runtime source code changed in workspace and synchronized to both export directories.",
+  "importAutoConfigurationValidation": {
+    "date": "2026-10-09",
+    "packageManifestShaChecks": {
+      "baseFolders": 430,
+      "weightFolders": 41,
+      "status": "passed"
+    },
+    "assetReferenceChecks": {
+      "roles": 431,
+      "models": 2835,
+      "status": "passed"
+    },
+    "electronCycles": 9,
+    "status": "passed",
+    "scope": "light-app actual folder import, preview/render, original audio, persistence; not all animations or TTS voices",
+    "installedLightCycles": 9
+  },
+  "installerDirectory": "安装程序/2026-10-09-r1",
+  "installers": {
+    "variant": "full",
+    "setupBytes": 16550030949,
+    "dataVolumes": 17,
+    "directory": "安装程序/2026-10-09-r1",
+    "compile": "passed",
+    "isolatedInstall": "passed",
+    "installedAppStartup": "passed",
+    "uninstall": "passed",
+    "codeSigned": false,
+    "otherComputerValidation": "not_run",
+    "voiceTimbreValidation": "not_run"
+  },
+  "packageScope": "source plus offline Windows installers; optional folders are separate in light"
+}

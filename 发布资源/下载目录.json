@@ -1,0 +1,631 @@
+{
+  "schemaVersion": 1,
+  "edition": "full",
+  "release": "v0.3.0",
+  "installers": [
+    {
+      "file": "TerraDeskMat-Setup-0.3.0-1.bin",
+      "bytes": 990700544,
+      "kind": "installer"
+    },
+    {
+      "file": "TerraDeskMat-Setup-0.3.0-10.bin",
+      "bytes": 1000000000,
+      "kind": "installer"
+    },
+    {
+      "file": "TerraDeskMat-Setup-0.3.0-11.bin",
+      "bytes": 1000000000,
+      "kind": "installer"
+    },
+    {
+      "file": "TerraDeskMat-Setup-0.3.0-12.bin",
+      "bytes": 1000000000,
+      "kind": "installer"
+    },
+    {
+      "file": "TerraDeskMat-Setup-0.3.0-13.bin",
+      "bytes": 1000000000,
+      "kind": "installer"
+    },
+    {
+      "file": "TerraDeskMat-Setup-0.3.0-14.bin",
+      "bytes": 1000000000,
+      "kind": "installer"
+    },
+    {
+      "file": "TerraDeskMat-Setup-0.3.0-15.bin",
+      "bytes": 1000000000,
+      "kind": "installer"
+    },
+    {
+      "file": "TerraDeskMat-Setup-0.3.0-16.bin",
+      "bytes": 1000000000,
+      "kind": "installer"
+    },
+    {
+      "file": "TerraDeskMat-Setup-0.3.0-17.bin",
+      "bytes": 550031219,
+      "kind": "installer"
+    },
+    {
+      "file": "TerraDeskMat-Setup-0.3.0-2.bin",
+      "bytes": 1000000000,
+      "kind": "installer"
+    },
+    {
+      "file": "TerraDeskMat-Setup-0.3.0-3.bin",
+      "bytes": 1000000000,
+      "kind": "installer"
+    },
+    {
+      "file": "TerraDeskMat-Setup-0.3.0-4.bin",
+      "bytes": 1000000000,
+      "kind": "installer"
+    },
+    {
+      "file": "TerraDeskMat-Setup-0.3.0-5.bin",
+      "bytes": 1000000000,
+      "kind": "installer"
+    },
+    {
+      "file": "TerraDeskMat-Setup-0.3.0-6.bin",
+      "bytes": 1000000000,
+      "kind": "installer"
+    },
+    {
+      "file": "TerraDeskMat-Setup-0.3.0-7.bin",
+      "bytes": 1000000000,
+      "kind": "installer"
+    },
+    {
+      "file": "TerraDeskMat-Setup-0.3.0-8.bin",
+      "bytes": 1000000000,
+      "kind": "installer"
+    },
+    {
+      "file": "TerraDeskMat-Setup-0.3.0-9.bin",
+      "bytes": 1000000000,
+      "kind": "installer"
+    },
+    {
+      "file": "TerraDeskMat-Setup-0.3.0.exe",
+      "bytes": 9299186,
+      "kind": "installer"
+    }
+  ],
+  "sourceAssets": [
+    {
+      "file": "full-source-assets.zip.001",
+      "bytes": 1887436800,
+      "kind": "source-assets"
+    },
+    {
+      "file": "full-source-assets.zip.002",
+      "bytes": 241246316,
+      "kind": "source-assets"
+    },
+    {
+      "file": "full-weight-metadata.zip",
+      "bytes": 256512,
+      "kind": "weight-metadata"
+    }
+  ],
+  "sharedRuntime": [
+    {
+      "file": "shared-speech-runtime.zip.001",
+      "bytes": 1887436800,
+      "kind": "shared-runtime"
+    },
+    {
+      "file": "shared-speech-runtime.zip.002",
+      "bytes": 1887436800,
+      "kind": "shared-runtime"
+    },
+    {
+      "file": "shared-speech-runtime.zip.003",
+      "bytes": 1887436800,
+      "kind": "shared-runtime"
+    },
+    {
+      "file": "shared-speech-runtime.zip.004",
+      "bytes": 117293473,
+      "kind": "shared-runtime"
+    }
+  ],
+  "voiceModelSourceRepo": "Mizusamada/TerraDeskMateLight",
+  "voicePackages": [
+    {
+      "file": "voice-e73c8da1ecb12eff.zip",
+      "bytes": 222987781,
+      "kind": "voice",
+      "roleId": "Amiya",
+      "displayName": "Amiya",
+      "sourceFolder": "语音权重包/Amiya",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-e73c8da1ecb12eff.zip",
+      "gpt": "trained-voices/role-e73c8da1ecb12eff/gpt.ckpt",
+      "sovits": "trained-voices/role-e73c8da1ecb12eff/sovits.pth",
+      "dataset": "trained-voices/role-e73c8da1ecb12eff/dataset.json"
+    },
+    {
+      "file": "voice-b5d843c9b139acec.zip",
+      "bytes": 222987413,
+      "kind": "voice",
+      "roleId": "Amiya(医疗)",
+      "displayName": "Amiya(医疗)",
+      "sourceFolder": "语音权重包/Amiya(医疗)",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-b5d843c9b139acec.zip",
+      "gpt": "trained-voices/role-b5d843c9b139acec/gpt.ckpt",
+      "sovits": "trained-voices/role-b5d843c9b139acec/sovits.pth",
+      "dataset": "trained-voices/role-b5d843c9b139acec/dataset.json"
+    },
+    {
+      "file": "voice-ff98469e0fd8c472.zip",
+      "bytes": 222989262,
+      "kind": "voice",
+      "roleId": "Amiya(近卫)",
+      "displayName": "Amiya(近卫)",
+      "sourceFolder": "语音权重包/Amiya(近卫)",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-ff98469e0fd8c472.zip",
+      "gpt": "trained-voices/role-ff98469e0fd8c472/gpt.ckpt",
+      "sovits": "trained-voices/role-ff98469e0fd8c472/sovits.pth",
+      "dataset": "trained-voices/role-ff98469e0fd8c472/dataset.json"
+    },
+    {
+      "file": "voice-6f04e2bff3161d79.zip",
+      "bytes": 222991738,
+      "kind": "voice",
+      "roleId": "Angelina the Mellow Wish",
+      "displayName": "Angelina the Mellow Wish",
+      "sourceFolder": "语音权重包/Angelina the Mellow Wish",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-6f04e2bff3161d79.zip",
+      "gpt": "trained-voices/role-6f04e2bff3161d79/gpt.ckpt",
+      "sovits": "trained-voices/role-6f04e2bff3161d79/sovits.pth",
+      "dataset": "trained-voices/role-6f04e2bff3161d79/dataset.json"
+    },
+    {
+      "file": "voice-e957fe67c391bb70.zip",
+      "bytes": 222989739,
+      "kind": "voice",
+      "roleId": "Civilight Eterna",
+      "displayName": "Civilight Eterna",
+      "sourceFolder": "语音权重包/Civilight Eterna",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-e957fe67c391bb70.zip",
+      "gpt": "trained-voices/role-e957fe67c391bb70/gpt.ckpt",
+      "sovits": "trained-voices/role-e957fe67c391bb70/sovits.pth",
+      "dataset": "trained-voices/role-e957fe67c391bb70/dataset.json"
+    },
+    {
+      "file": "voice-e90d617d2b55cdbd.zip",
+      "bytes": 222992524,
+      "kind": "voice",
+      "roleId": "Closure",
+      "displayName": "Closure",
+      "sourceFolder": "语音权重包/Closure",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-e90d617d2b55cdbd.zip",
+      "gpt": "trained-voices/role-e90d617d2b55cdbd/gpt.ckpt",
+      "sovits": "trained-voices/role-e90d617d2b55cdbd/sovits.pth",
+      "dataset": "trained-voices/role-e90d617d2b55cdbd/dataset.json"
+    },
+    {
+      "file": "voice-abd7160c1f46a064.zip",
+      "bytes": 222990253,
+      "kind": "voice",
+      "roleId": "Dusk",
+      "displayName": "Dusk",
+      "sourceFolder": "语音权重包/Dusk",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-abd7160c1f46a064.zip",
+      "gpt": "trained-voices/role-abd7160c1f46a064/gpt.ckpt",
+      "sovits": "trained-voices/role-abd7160c1f46a064/sovits.pth",
+      "dataset": "trained-voices/role-abd7160c1f46a064/dataset.json"
+    },
+    {
+      "file": "voice-96de71a4a2963373.zip",
+      "bytes": 222983679,
+      "kind": "voice",
+      "roleId": "Exusiai",
+      "displayName": "Exusiai",
+      "sourceFolder": "语音权重包/Exusiai",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-96de71a4a2963373.zip",
+      "gpt": "trained-voices/role-96de71a4a2963373/gpt.ckpt",
+      "sovits": "trained-voices/role-96de71a4a2963373/sovits.pth",
+      "dataset": "trained-voices/role-96de71a4a2963373/dataset.json"
+    },
+    {
+      "file": "voice-430f940f1ff1c5c2.zip",
+      "bytes": 222990409,
+      "kind": "voice",
+      "roleId": "Exusiai the New Covenant",
+      "displayName": "Exusiai the New Covenant",
+      "sourceFolder": "语音权重包/Exusiai the New Covenant",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-430f940f1ff1c5c2.zip",
+      "gpt": "trained-voices/role-430f940f1ff1c5c2/gpt.ckpt",
+      "sovits": "trained-voices/role-430f940f1ff1c5c2/sovits.pth",
+      "dataset": "trained-voices/role-430f940f1ff1c5c2/dataset.json"
+    },
+    {
+      "file": "voice-5e75323322a7df94.zip",
+      "bytes": 222989333,
+      "kind": "voice",
+      "roleId": "Eyjafjalla",
+      "displayName": "Eyjafjalla",
+      "sourceFolder": "语音权重包/Eyjafjalla",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-5e75323322a7df94.zip",
+      "gpt": "trained-voices/role-5e75323322a7df94/gpt.ckpt",
+      "sovits": "trained-voices/role-5e75323322a7df94/sovits.pth",
+      "dataset": "trained-voices/role-5e75323322a7df94/dataset.json"
+    },
+    {
+      "file": "voice-aa8c9fab8234a329.zip",
+      "bytes": 222992788,
+      "kind": "voice",
+      "roleId": "Eyjafjalla the Hvít Aska",
+      "displayName": "Eyjafjalla the Hvít Aska",
+      "sourceFolder": "语音权重包/Eyjafjalla the Hvít Aska",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-aa8c9fab8234a329.zip",
+      "gpt": "trained-voices/role-aa8c9fab8234a329/gpt.ckpt",
+      "sovits": "trained-voices/role-aa8c9fab8234a329/sovits.pth",
+      "dataset": "trained-voices/role-aa8c9fab8234a329/dataset.json"
+    },
+    {
+      "file": "voice-66f3f50a0f3da0cd.zip",
+      "bytes": 222986075,
+      "kind": "voice",
+      "roleId": "Goldenglow",
+      "displayName": "Goldenglow",
+      "sourceFolder": "语音权重包/Goldenglow",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-66f3f50a0f3da0cd.zip",
+      "gpt": "trained-voices/role-66f3f50a0f3da0cd/gpt.ckpt",
+      "sovits": "trained-voices/role-66f3f50a0f3da0cd/sovits.pth",
+      "dataset": "trained-voices/role-66f3f50a0f3da0cd/dataset.json"
+    },
+    {
+      "file": "voice-3b001de367575133.zip",
+      "bytes": 222990486,
+      "kind": "voice",
+      "roleId": "Haruka",
+      "displayName": "Haruka",
+      "sourceFolder": "语音权重包/Haruka",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-3b001de367575133.zip",
+      "gpt": "trained-voices/role-3b001de367575133/gpt.ckpt",
+      "sovits": "trained-voices/role-3b001de367575133/sovits.pth",
+      "dataset": "trained-voices/role-3b001de367575133/dataset.json"
+    },
+    {
+      "file": "voice-135d88ff4f2c8c1d.zip",
+      "bytes": 222990569,
+      "kind": "voice",
+      "roleId": "Hoshiguma the Breacher",
+      "displayName": "Hoshiguma the Breacher",
+      "sourceFolder": "语音权重包/Hoshiguma the Breacher",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-135d88ff4f2c8c1d.zip",
+      "gpt": "trained-voices/role-135d88ff4f2c8c1d/gpt.ckpt",
+      "sovits": "trained-voices/role-135d88ff4f2c8c1d/sovits.pth",
+      "dataset": "trained-voices/role-135d88ff4f2c8c1d/dataset.json"
+    },
+    {
+      "file": "voice-c3ef02333f92b8d9.zip",
+      "bytes": 222990581,
+      "kind": "voice",
+      "roleId": "Ines",
+      "displayName": "Ines",
+      "sourceFolder": "语音权重包/Ines",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-c3ef02333f92b8d9.zip",
+      "gpt": "trained-voices/role-c3ef02333f92b8d9/gpt.ckpt",
+      "sovits": "trained-voices/role-c3ef02333f92b8d9/sovits.pth",
+      "dataset": "trained-voices/role-c3ef02333f92b8d9/dataset.json"
+    },
+    {
+      "file": "voice-c571bef9245737a8.zip",
+      "bytes": 222989452,
+      "kind": "voice",
+      "roleId": "Kal'tsit",
+      "displayName": "Kal'tsit",
+      "sourceFolder": "语音权重包/Kal'tsit",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-c571bef9245737a8.zip",
+      "gpt": "trained-voices/role-c571bef9245737a8/gpt.ckpt",
+      "sovits": "trained-voices/role-c571bef9245737a8/sovits.pth",
+      "dataset": "trained-voices/role-c571bef9245737a8/dataset.json"
+    },
+    {
+      "file": "voice-57442f6dfb839766.zip",
+      "bytes": 222991271,
+      "kind": "voice",
+      "roleId": "Kal'tsit·Esperanta",
+      "displayName": "Kal'tsit·Esperanta",
+      "sourceFolder": "语音权重包/Kal'tsit·Esperanta",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-57442f6dfb839766.zip",
+      "gpt": "trained-voices/role-57442f6dfb839766/gpt.ckpt",
+      "sovits": "trained-voices/role-57442f6dfb839766/sovits.pth",
+      "dataset": "trained-voices/role-57442f6dfb839766/dataset.json"
+    },
+    {
+      "file": "voice-e00d283c8b98696d.zip",
+      "bytes": 222985765,
+      "kind": "voice",
+      "roleId": "Lappland",
+      "displayName": "Lappland",
+      "sourceFolder": "语音权重包/Lappland",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-e00d283c8b98696d.zip",
+      "gpt": "trained-voices/role-e00d283c8b98696d/gpt.ckpt",
+      "sovits": "trained-voices/role-e00d283c8b98696d/sovits.pth",
+      "dataset": "trained-voices/role-e00d283c8b98696d/dataset.json"
+    },
+    {
+      "file": "voice-cb20aa5a2bc3a66b.zip",
+      "bytes": 222991492,
+      "kind": "voice",
+      "roleId": "Lappland the Decadenza",
+      "displayName": "Lappland the Decadenza",
+      "sourceFolder": "语音权重包/Lappland the Decadenza",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-cb20aa5a2bc3a66b.zip",
+      "gpt": "trained-voices/role-cb20aa5a2bc3a66b/gpt.ckpt",
+      "sovits": "trained-voices/role-cb20aa5a2bc3a66b/sovits.pth",
+      "dataset": "trained-voices/role-cb20aa5a2bc3a66b/dataset.json"
+    },
+    {
+      "file": "voice-6651861323576047.zip",
+      "bytes": 222991792,
+      "kind": "voice",
+      "roleId": "Lemuen",
+      "displayName": "Lemuen",
+      "sourceFolder": "语音权重包/Lemuen",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-6651861323576047.zip",
+      "gpt": "trained-voices/role-6651861323576047/gpt.ckpt",
+      "sovits": "trained-voices/role-6651861323576047/sovits.pth",
+      "dataset": "trained-voices/role-6651861323576047/dataset.json"
+    },
+    {
+      "file": "voice-2b0709236ba29664.zip",
+      "bytes": 222992064,
+      "kind": "voice",
+      "roleId": "Logos",
+      "displayName": "Logos",
+      "sourceFolder": "语音权重包/Logos",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-2b0709236ba29664.zip",
+      "gpt": "trained-voices/role-2b0709236ba29664/gpt.ckpt",
+      "sovits": "trained-voices/role-2b0709236ba29664/sovits.pth",
+      "dataset": "trained-voices/role-2b0709236ba29664/dataset.json"
+    },
+    {
+      "file": "voice-b8f68abf5bd8845f.zip",
+      "bytes": 222987133,
+      "kind": "voice",
+      "roleId": "Makoto Yuki",
+      "displayName": "Makoto Yuki",
+      "sourceFolder": "语音权重包/Makoto Yuki",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-b8f68abf5bd8845f.zip",
+      "gpt": "trained-voices/role-b8f68abf5bd8845f/gpt.ckpt",
+      "sovits": "trained-voices/role-b8f68abf5bd8845f/sovits.pth",
+      "dataset": "trained-voices/role-b8f68abf5bd8845f/dataset.json"
+    },
+    {
+      "file": "voice-c8a531dc8416b275.zip",
+      "bytes": 222984817,
+      "kind": "voice",
+      "roleId": "Misumi Uika",
+      "displayName": "Misumi Uika",
+      "sourceFolder": "语音权重包/Misumi Uika",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-c8a531dc8416b275.zip",
+      "gpt": "trained-voices/role-c8a531dc8416b275/gpt.ckpt",
+      "sovits": "trained-voices/role-c8a531dc8416b275/sovits.pth",
+      "dataset": "trained-voices/role-c8a531dc8416b275/dataset.json"
+    },
+    {
+      "file": "voice-6d72ffb4cb5e105b.zip",
+      "bytes": 222991969,
+      "kind": "voice",
+      "roleId": "Mon3tr",
+      "displayName": "Mon3tr",
+      "sourceFolder": "语音权重包/Mon3tr",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-6d72ffb4cb5e105b.zip",
+      "gpt": "trained-voices/role-6d72ffb4cb5e105b/gpt.ckpt",
+      "sovits": "trained-voices/role-6d72ffb4cb5e105b/sovits.pth",
+      "dataset": "trained-voices/role-6d72ffb4cb5e105b/dataset.json"
+    },
+    {
+      "file": "voice-184f38087399ec9d.zip",
+      "bytes": 222988454,
+      "kind": "voice",
+      "roleId": "Mostima",
+      "displayName": "Mostima",
+      "sourceFolder": "语音权重包/Mostima",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-184f38087399ec9d.zip",
+      "gpt": "trained-voices/role-184f38087399ec9d/gpt.ckpt",
+      "sovits": "trained-voices/role-184f38087399ec9d/sovits.pth",
+      "dataset": "trained-voices/role-184f38087399ec9d/dataset.json"
+    },
+    {
+      "file": "voice-ec756730fb6b396e.zip",
+      "bytes": 222988962,
+      "kind": "voice",
+      "roleId": "Muelsyse",
+      "displayName": "Muelsyse",
+      "sourceFolder": "语音权重包/Muelsyse",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-ec756730fb6b396e.zip",
+      "gpt": "trained-voices/role-ec756730fb6b396e/gpt.ckpt",
+      "sovits": "trained-voices/role-ec756730fb6b396e/sovits.pth",
+      "dataset": "trained-voices/role-ec756730fb6b396e/dataset.json"
+    },
+    {
+      "file": "voice-2606368d6003c428.zip",
+      "bytes": 222990556,
+      "kind": "voice",
+      "roleId": "Pramanix the Prerita",
+      "displayName": "Pramanix the Prerita",
+      "sourceFolder": "语音权重包/Pramanix the Prerita",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-2606368d6003c428.zip",
+      "gpt": "trained-voices/role-2606368d6003c428/gpt.ckpt",
+      "sovits": "trained-voices/role-2606368d6003c428/sovits.pth",
+      "dataset": "trained-voices/role-2606368d6003c428/dataset.json"
+    },
+    {
+      "file": "voice-fe0a6d0925767204.zip",
+      "bytes": 222989823,
+      "kind": "voice",
+      "roleId": "Rosmontis",
+      "displayName": "Rosmontis",
+      "sourceFolder": "语音权重包/Rosmontis",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-fe0a6d0925767204.zip",
+      "gpt": "trained-voices/role-fe0a6d0925767204/gpt.ckpt",
+      "sovits": "trained-voices/role-fe0a6d0925767204/sovits.pth",
+      "dataset": "trained-voices/role-fe0a6d0925767204/dataset.json"
+    },
+    {
+      "file": "voice-ae3379ac2ab35c1c.zip",
+      "bytes": 222991288,
+      "kind": "voice",
+      "roleId": "Shu",
+      "displayName": "Shu",
+      "sourceFolder": "语音权重包/Shu",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-ae3379ac2ab35c1c.zip",
+      "gpt": "trained-voices/role-ae3379ac2ab35c1c/gpt.ckpt",
+      "sovits": "trained-voices/role-ae3379ac2ab35c1c/sovits.pth",
+      "dataset": "trained-voices/role-ae3379ac2ab35c1c/dataset.json"
+    },
+    {
+      "file": "voice-a096f91ed2e553e1.zip",
+      "bytes": 222989191,
+      "kind": "voice",
+      "roleId": "SilverAsh the Reignfrost",
+      "displayName": "SilverAsh the Reignfrost",
+      "sourceFolder": "语音权重包/SilverAsh the Reignfrost",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-a096f91ed2e553e1.zip",
+      "gpt": "trained-voices/role-a096f91ed2e553e1/gpt.ckpt",
+      "sovits": "trained-voices/role-a096f91ed2e553e1/sovits.pth",
+      "dataset": "trained-voices/role-a096f91ed2e553e1/dataset.json"
+    },
+    {
+      "file": "voice-dfd12bda87e2fea3.zip",
+      "bytes": 222990930,
+      "kind": "voice",
+      "roleId": "Skadi the Corrupting Heart",
+      "displayName": "Skadi the Corrupting Heart",
+      "sourceFolder": "语音权重包/Skadi the Corrupting Heart",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-dfd12bda87e2fea3.zip",
+      "gpt": "trained-voices/role-dfd12bda87e2fea3/gpt.ckpt",
+      "sovits": "trained-voices/role-dfd12bda87e2fea3/sovits.pth",
+      "dataset": "trained-voices/role-dfd12bda87e2fea3/dataset.json"
+    },
+    {
+      "file": "voice-794427dff27a27be.zip",
+      "bytes": 222986877,
+      "kind": "voice",
+      "roleId": "Surtr",
+      "displayName": "Surtr",
+      "sourceFolder": "语音权重包/Surtr",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-794427dff27a27be.zip",
+      "gpt": "trained-voices/role-794427dff27a27be/gpt.ckpt",
+      "sovits": "trained-voices/role-794427dff27a27be/sovits.pth",
+      "dataset": "trained-voices/role-794427dff27a27be/dataset.json"
+    },
+    {
+      "file": "voice-c238d643873082f2.zip",
+      "bytes": 222987046,
+      "kind": "voice",
+      "roleId": "Suzuran",
+      "displayName": "Suzuran",
+      "sourceFolder": "语音权重包/Suzuran",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-c238d643873082f2.zip",
+      "gpt": "trained-voices/role-c238d643873082f2/gpt.ckpt",
+      "sovits": "trained-voices/role-c238d643873082f2/sovits.pth",
+      "dataset": "trained-voices/role-c238d643873082f2/dataset.json"
+    },
+    {
+      "file": "voice-04b682e0edb0b41c.zip",
+      "bytes": 222987211,
+      "kind": "voice",
+      "roleId": "Togawa Sakiko",
+      "displayName": "Togawa Sakiko",
+      "sourceFolder": "语音权重包/Togawa Sakiko",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-04b682e0edb0b41c.zip",
+      "gpt": "trained-voices/role-04b682e0edb0b41c/gpt.ckpt",
+      "sovits": "trained-voices/role-04b682e0edb0b41c/sovits.pth",
+      "dataset": "trained-voices/role-04b682e0edb0b41c/dataset.json"
+    },
+    {
+      "file": "voice-325c6d7c626005e2.zip",
+      "bytes": 222987520,
+      "kind": "voice",
+      "roleId": "Tragodia",
+      "displayName": "Tragodia",
+      "sourceFolder": "语音权重包/Tragodia",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-325c6d7c626005e2.zip",
+      "gpt": "trained-voices/role-325c6d7c626005e2/gpt.ckpt",
+      "sovits": "trained-voices/role-325c6d7c626005e2/sovits.pth",
+      "dataset": "trained-voices/role-325c6d7c626005e2/dataset.json"
+    },
+    {
+      "file": "voice-fcb5f40df9be6bae.zip",
+      "bytes": 222989705,
+      "kind": "voice",
+      "roleId": "W",
+      "displayName": "W",
+      "sourceFolder": "语音权重包/W",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-fcb5f40df9be6bae.zip",
+      "gpt": "trained-voices/role-fcb5f40df9be6bae/gpt.ckpt",
+      "sovits": "trained-voices/role-fcb5f40df9be6bae/sovits.pth",
+      "dataset": "trained-voices/role-fcb5f40df9be6bae/dataset.json"
+    },
+    {
+      "file": "voice-fc89e1f79bce7d06.zip",
+      "bytes": 222985289,
+      "kind": "voice",
+      "roleId": "Wakaba Mutsumi",
+      "displayName": "Wakaba Mutsumi",
+      "sourceFolder": "语音权重包/Wakaba Mutsumi",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-fc89e1f79bce7d06.zip",
+      "gpt": "trained-voices/role-fc89e1f79bce7d06/gpt.ckpt",
+      "sovits": "trained-voices/role-fc89e1f79bce7d06/sovits.pth",
+      "dataset": "trained-voices/role-fc89e1f79bce7d06/dataset.json"
+    },
+    {
+      "file": "voice-1c8e2c2ba9636343.zip",
+      "bytes": 222986872,
+      "kind": "voice",
+      "roleId": "Wang",
+      "displayName": "Wang",
+      "sourceFolder": "语音权重包/Wang",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-1c8e2c2ba9636343.zip",
+      "gpt": "trained-voices/role-1c8e2c2ba9636343/gpt.ckpt",
+      "sovits": "trained-voices/role-1c8e2c2ba9636343/sovits.pth",
+      "dataset": "trained-voices/role-1c8e2c2ba9636343/dataset.json"
+    },
+    {
+      "file": "voice-22fa905138804237.zip",
+      "bytes": 222991180,
+      "kind": "voice",
+      "roleId": "Wiš'adel",
+      "displayName": "Wiš'adel",
+      "sourceFolder": "语音权重包/Wiš'adel",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-22fa905138804237.zip",
+      "gpt": "trained-voices/role-22fa905138804237/gpt.ckpt",
+      "sovits": "trained-voices/role-22fa905138804237/sovits.pth",
+      "dataset": "trained-voices/role-22fa905138804237/dataset.json"
+    },
+    {
+      "file": "voice-70fd29f8e74c9ccb.zip",
+      "bytes": 222987449,
+      "kind": "voice",
+      "roleId": "Yahata Umiri",
+      "displayName": "Yahata Umiri",
+      "sourceFolder": "语音权重包/Yahata Umiri",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-70fd29f8e74c9ccb.zip",
+      "gpt": "trained-voices/role-70fd29f8e74c9ccb/gpt.ckpt",
+      "sovits": "trained-voices/role-70fd29f8e74c9ccb/sovits.pth",
+      "dataset": "trained-voices/role-70fd29f8e74c9ccb/dataset.json"
+    },
+    {
+      "file": "voice-cc8587ea39984d79.zip",
+      "bytes": 222986463,
+      "kind": "voice",
+      "roleId": "Yūtenji Nyamu",
+      "displayName": "Yūtenji Nyamu",
+      "sourceFolder": "语音权重包/Yūtenji Nyamu",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-cc8587ea39984d79.zip",
+      "gpt": "trained-voices/role-cc8587ea39984d79/gpt.ckpt",
+      "sovits": "trained-voices/role-cc8587ea39984d79/sovits.pth",
+      "dataset": "trained-voices/role-cc8587ea39984d79/dataset.json"
+    }
+  ]
+}

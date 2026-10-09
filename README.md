@@ -25,3 +25,7 @@
 [安装程序、角色资源与权重下载](https://github.com/Mizusamada/TerraDeskMate/releases)
 
 源码克隆不含大资源。请按发布资源/下载目录.json取得完整资源，或执行准备资源.ps1恢复构建资源。安装程序下载后可双击安装，不要求npm。大文件使用Release附件，不要求购买Git LFS存储。
+
+### 从源码取得构建资源
+
+Windows PowerShell：`powershell -ExecutionPolicy Bypass -File .\准备资源.ps1` 恢复基础资源。轻量可加 `-Role Beagle` 下载该角色文件夹；需独立权重时再加 `-IncludeVoiceWeights`。全量需离线合成环境时加 `-IncludeSpeechRuntime`，所有现有权重加 `-IncludeVoiceWeights`；这些大资源不会被普通源码克隆自动下载。没有该角色权重会明确提示。
