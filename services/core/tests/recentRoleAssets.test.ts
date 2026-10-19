@@ -17,6 +17,11 @@ test('recent PRTS roles and Sightseer IV skins expose complete Spine resources',
     ['Tragodia', 'Tragodia-真我自扼'],
     ['Mantra', 'Mantra-万籁俱寂'],
     ['Лето', 'Лето-来日欢歌'],
+    // Design reason: each NLC skin needs its own interactive Spine triplets,
+    // not only a portrait or a catalog label inherited from the base role.
+    ['Shu', 'Shu-源远流长'],
+    ['Blaze the Igniting Spark', 'Blaze the Igniting Spark-夜行烛火'],
+    ['Swire the Elegant Wit', 'Swire the Elegant Wit-盛世之象'],
   ];
   for (const [role, skin] of expected) {
     for (const view of ['基建', '正面', '背面']) {

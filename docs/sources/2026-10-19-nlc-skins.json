@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-19",
+  "skins": [
+    {
+      "id": "char_2025_shu@nlc#1",
+      "role": "Shu",
+      "skin": "源远流长"
+    },
+    {
+      "id": "char_1040_blaze2@nlc#1",
+      "role": "Blaze the Igniting Spark",
+      "skin": "夜行烛火"
+    },
+    {
+      "id": "char_1033_swire2@nlc#1",
+      "role": "Swire the Elegant Wit",
+      "skin": "盛世之象"
+    }
+  ],
+  "files": [
+    {
+      "path": "干员模型/Shu/Shu-源远流长/基建/build_char_2025_shu_nlc_1.skel",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_2025_shu/char_2025_shu_nlc_1/build/build_char_2025_shu_nlc_1.skel",
+      "sha256": "5ea5304ba3803367b560f60a6c0211ed3236a785dfd8a03c06f6c67438b717ba",
+      "size": 612866
+    },
+    {
+      "path": "干员模型/Shu/Shu-源远流长/基建/build_char_2025_shu_nlc_1.atlas",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_2025_shu/char_2025_shu_nlc_1/build/build_char_2025_shu_nlc_1.atlas",
+      "sha256": "12758ad7870954bdb225dd3e66ce74e8b43374cb1ed0bb582cb733b49ce08e21",
+      "size": 16902
+    },
+    {
+      "path": "干员模型/Shu/Shu-源远流长/基建/build_char_2025_shu_nlc_1.png",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_2025_shu/char_2025_shu_nlc_1/build/build_char_2025_shu_nlc_1.png",
+      "sha256": "6fb8daa808c1231fe7dfb30dd23d784d091f441646e5fcd8347b9ff7e2f0ba85",
+      "size": 376004
+    },
+    {
+      "path": "干员模型/Shu/Shu-源远流长/正面/char_2025_shu_nlc_1.skel",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_2025_shu/char_2025_shu_nlc_1/front/char_2025_shu_nlc_1.skel",
+      "sha256": "33e289bcf48cd4845200de7957b90c18656105ca5b64c99ec13400e42bc469cc",
+      "size": 490793
+    },
+    {
+      "path": "干员模型/Shu/Shu-源远流长/正面/char_2025_shu_nlc_1.atlas",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_2025_shu/char_2025_shu_nlc_1/front/char_2025_shu_nlc_1.atlas",
+      "sha256": "186d625944cfeba48a1e0372c9bb60ef00a0419e730424ac372ea37837fca41a",
+      "size": 12085
+    },
+    {
+      "path": "干员模型/Shu/Shu-源远流长/正面/char_2025_shu_nlc_1.png",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_2025_shu/char_2025_shu_nlc_1/front/char_2025_shu_nlc_1.png",
+      "sha256": "3b26cd4928bce7fd40162f30c55b7b16aae137b1e976412e32137641c2ca287f",
+      "size": 158385
+    },
+    {
+      "path": "干员模型/Shu/Shu-源远流长/背面/char_2025_shu_nlc_1.skel",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_2025_shu/char_2025_shu_nlc_1/back/char_2025_shu_nlc_1.skel",
+      "sha256": "882231fee1d0a0b71a51674489d7b4d03c049aa7e02d8d6363b85f07844a503a",
+      "size": 292380
+    },
+    {
+      "path": "干员模型/Shu/Shu-源远流长/背面/char_2025_shu_nlc_1.atlas",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_2025_shu/char_2025_shu_nlc_1/back/char_2025_shu_nlc_1.atlas",
+      "sha256": "26525aabf5a1c971fbc65247b0176ad9ac71dd2939a7e5268a5e08907cdf4dbb",
+      "size": 8137
+    },
+    {
+      "path": "干员模型/Shu/Shu-源远流长/背面/char_2025_shu_nlc_1.png",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_2025_shu/char_2025_shu_nlc_1/back/char_2025_shu_nlc_1.png",
+      "sha256": "40e938b5f295acc028afa77d5627404e9cfd6b6282a463feea3ebd4785097bb2",
+      "size": 142001
+    },
+    {
+      "path": "干员模型/Blaze the Igniting Spark/Blaze the Igniting Spark-夜行烛火/基建/build_char_1040_blaze2_nlc_1.skel",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_1040_blaze2/char_1040_blaze2_nlc_1/build/build_char_1040_blaze2_nlc_1.skel",
+      "sha256": "a62c5beef6d56cd7053b654c96afcf30e2e92a48b0c497baacf431cf1e6e2f5d",
+      "size": 608598
+    },
+    {
+      "path": "干员模型/Blaze the Igniting Spark/Blaze the Igniting Spark-夜行烛火/基建/build_char_1040_blaze2_nlc_1.atlas",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_1040_blaze2/char_1040_blaze2_nlc_1/build/build_char_1040_blaze2_nlc_1.atlas",
+      "sha256": "524902de8e3f82c536f36a567f599f7fc0273a5a618ccc3b0a8083ed48654690",
+      "size": 15792
+    },
+    {
+      "path": "干员模型/Blaze the Igniting Spark/Blaze the Igniting Spark-夜行烛火/基建/build_char_1040_blaze2_nlc_1.png",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_1040_blaze2/char_1040_blaze2_nlc_1/build/build_char_1040_blaze2_nlc_1.png",
+      "sha256": "b670288b516e4951521b341509f6acea8289bfe82dc44b679acffc21697bc377",
+      "size": 402633
+    },
+    {
+      "path": "干员模型/Blaze the Igniting Spark/Blaze the Igniting Spark-夜行烛火/正面/char_1040_blaze2_nlc_1.skel",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_1040_blaze2/char_1040_blaze2_nlc_1/front/char_1040_blaze2_nlc_1.skel",
+      "sha256": "c53904f660dca15ff8dffa413e9e7897af8ce8449e4994a556820c3fef49d584",
+      "size": 889081
+    },
+    {
+      "path": "干员模型/Blaze the Igniting Spark/Blaze the Igniting Spark-夜行烛火/正面/char_1040_blaze2_nlc_1.atlas",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_1040_blaze2/char_1040_blaze2_nlc_1/front/char_1040_blaze2_nlc_1.atlas",
+      "sha256": "c8f4b1c9fbfb2ad377caa5738489d71478aa5b175fdcc88c7b0f0ca0eb49f08c",
+      "size": 18077
+    },
+    {
+      "path": "干员模型/Blaze the Igniting Spark/Blaze the Igniting Spark-夜行烛火/正面/char_1040_blaze2_nlc_1.png",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_1040_blaze2/char_1040_blaze2_nlc_1/front/char_1040_blaze2_nlc_1.png",
+      "sha256": "295caad965bd4d1e65cb246800c70ff00301e6e4ab23f27cbe1acd49f0a313c0",
+      "size": 175247
+    },
+    {
+      "path": "干员模型/Blaze the Igniting Spark/Blaze the Igniting Spark-夜行烛火/背面/char_1040_blaze2_nlc_1.skel",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_1040_blaze2/char_1040_blaze2_nlc_1/back/char_1040_blaze2_nlc_1.skel",
+      "sha256": "17504928275aa089fb8600eef6b64c89b79c3535ab743adedcc2b0ed2b4760d2",
+      "size": 747147
+    },
+    {
+      "path": "干员模型/Blaze the Igniting Spark/Blaze the Igniting Spark-夜行烛火/背面/char_1040_blaze2_nlc_1.atlas",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_1040_blaze2/char_1040_blaze2_nlc_1/back/char_1040_blaze2_nlc_1.atlas",
+      "sha256": "b62f60d272cfd7ccd181de703dd6a06033fbcaa3df139b6b268e6d83e5a5b515",
+      "size": 13456
+    },
+    {
+      "path": "干员模型/Blaze the Igniting Spark/Blaze the Igniting Spark-夜行烛火/背面/char_1040_blaze2_nlc_1.png",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_1040_blaze2/char_1040_blaze2_nlc_1/back/char_1040_blaze2_nlc_1.png",
+      "sha256": "12403aa90c13d0e5b5c6742b0f370c0c40002666200bbef2ae7dca1d19c95f2b",
+      "size": 155762
+    },
+    {
+      "path": "干员模型/Swire the Elegant Wit/Swire the Elegant Wit-盛世之象/基建/build_char_1033_swire2_nlc_1.skel",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_1033_swire2/char_1033_swire2_nlc_1/build/build_char_1033_swire2_nlc_1.skel",
+      "sha256": "56ec4c79343252cc67f27f87ec81432e86d586b001f60ea4a28bc9de8ae6a71f",
+      "size": 667286
+    },
+    {
+      "path": "干员模型/Swire the Elegant Wit/Swire the Elegant Wit-盛世之象/基建/build_char_1033_swire2_nlc_1.atlas",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_1033_swire2/char_1033_swire2_nlc_1/build/build_char_1033_swire2_nlc_1.atlas",
+      "sha256": "8090f2c40db015be2d069734cbcdcf5f2226a2b9762af1d6241c7b42cd21306b",
+      "size": 22844
+    },
+    {
+      "path": "干员模型/Swire the Elegant Wit/Swire the Elegant Wit-盛世之象/基建/build_char_1033_swire2_nlc_1.png",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_1033_swire2/char_1033_swire2_nlc_1/build/build_char_1033_swire2_nlc_1.png",
+      "sha256": "c54fae1e3c39743e0352ef7b273f66731a1b4d97e8e8a7ac27b3954c33af3b16",
+      "size": 663019
+    },
+    {
+      "path": "干员模型/Swire the Elegant Wit/Swire the Elegant Wit-盛世之象/正面/char_1033_swire2_nlc_1.skel",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_1033_swire2/char_1033_swire2_nlc_1/front/char_1033_swire2_nlc_1.skel",
+      "sha256": "072edb31e5061e3816518ebd6bba553810114b9fcff2e6c3d163605dd6eb0d48",
+      "size": 540167
+    },
+    {
+      "path": "干员模型/Swire the Elegant Wit/Swire the Elegant Wit-盛世之象/正面/char_1033_swire2_nlc_1.atlas",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_1033_swire2/char_1033_swire2_nlc_1/front/char_1033_swire2_nlc_1.atlas",
+      "sha256": "5d5b5d2588da03ae879dfc88d403a1557d84d035b1ba65cd6d65d08f35d998a3",
+      "size": 16027
+    },
+    {
+      "path": "干员模型/Swire the Elegant Wit/Swire the Elegant Wit-盛世之象/正面/char_1033_swire2_nlc_1.png",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_1033_swire2/char_1033_swire2_nlc_1/front/char_1033_swire2_nlc_1.png",
+      "sha256": "ca68fd223a3abbe0d68f6994540f77c90e13f4cb70d040a3b9b3249d52cb01e8",
+      "size": 207350
+    },
+    {
+      "path": "干员模型/Swire the Elegant Wit/Swire the Elegant Wit-盛世之象/背面/char_1033_swire2_nlc_1.skel",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_1033_swire2/char_1033_swire2_nlc_1/back/char_1033_swire2_nlc_1.skel",
+      "sha256": "9766c6d251ea33fa3946e0840ef1969a2dd33ac7da5692826cab771eead1ed60",
+      "size": 368302
+    },
+    {
+      "path": "干员模型/Swire the Elegant Wit/Swire the Elegant Wit-盛世之象/背面/char_1033_swire2_nlc_1.atlas",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_1033_swire2/char_1033_swire2_nlc_1/back/char_1033_swire2_nlc_1.atlas",
+      "sha256": "d753e069dbe13102f362c9ad4186e419d9f4482e466de8e4fc165ef68729f979",
+      "size": 12253
+    },
+    {
+      "path": "干员模型/Swire the Elegant Wit/Swire the Elegant Wit-盛世之象/背面/char_1033_swire2_nlc_1.png",
+      "source": "https://torappu.prts.wiki/assets/char_spine/char_1033_swire2/char_1033_swire2_nlc_1/back/char_1033_swire2_nlc_1.png",
+      "sha256": "cee8a56591458559f60c1f97c7985dfd28afdd38868f936da08955bb89de8379",
+      "size": 185249
+    }
+  ]
+}

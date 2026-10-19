@@ -34,3 +34,18 @@ test('resource scan exposes recent skin, own persona and own original voices tog
   const voices=lib.voices.filter(v=>v.operatorId===role);assert.ok(voices.length>=30);assert.ok(voices.every(v=>v.audioPaths.ja&&v.audioPaths.zh));
  }}finally{assert.equal(path.dirname(temp),path.resolve(tmpdir()));fs.rmSync(temp,{recursive:true,force:true});}
 });
+// Design reason: a valid skeleton is insufficient if a skin is grouped under
+// another operator or hides a pre-existing selection in the control center.
+test('NLC skins stay with their existing roles and preserve older skins',()=>{
+ const temp=mkdtempSync(path.join(tmpdir(),'terra-nlc-contract-'));
+ try{const lib=new AssetLibrary(root,temp).scan();for(const [role,newSkin,oldSkin] of [
+  ['Shu','源远流长','春日宴'],
+  ['Blaze the Igniting Spark','夜行烛火','夜归人'],
+  ['Swire the Elegant Wit','盛世之象','律动方格'],
+ ]){
+  const bundles=lib.bundles.filter(b=>b.operatorId===role);
+  assert.equal(bundles.length,9,role+' should retain three complete skin groups');
+  for(const skin of [newSkin,oldSkin,'原皮'])assert.equal(bundles.filter(b=>b.skin.includes(skin)).length,3,role+'/'+skin);
+  assert.ok(bundles.every(b=>b.operatorId===role));
+ }}finally{fs.rmSync(temp,{recursive:true,force:true});}
+});

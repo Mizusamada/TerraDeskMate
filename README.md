@@ -1,3 +1,5 @@
+> **0.3.2 国家图书馆三款时装模型已发布：** [下载本版增量更新](https://github.com/Mizusamada/TerraDeskMate/releases/tag/v0.3.2)。先安装原 0.3.1，再按 [更新说明](docs/RELEASE-0.3.2.md) 操作；旧 EXE 不自动包含新皮肤。
+
 <!-- BEGIN DOWNLOAD FRONT -->
 # ⬇ 普通用户：下载即用
 
